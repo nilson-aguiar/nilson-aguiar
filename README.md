@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software engineer with 10+ years of experience, mainly with Java+Spring!
+
+Please check my linkedin page for more details: https://www.linkedin.com/in/nilagu/
+
+
 <!--
 **nilson-aguiar/nilson-aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
